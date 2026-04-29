@@ -1,6 +1,7 @@
 # 🌦️ Weather App
 
 A simple and dynamic weather application built using HTML, CSS, and JavaScript.
+🔗 Live Demo:https://aasthasingh-sd.github.io/weather-app/
 
 ## 🚀 Features
 - Search weather by city name
