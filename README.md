@@ -1,2 +1,25 @@
-# weather-app
-A dynamic weather app using HTML, CSS, JavaScript and OpenWeather API
+# 🌦️ Weather App
+
+A simple and dynamic weather application built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Search weather by city name
+- Real-time weather data using OpenWeather API
+- Dynamic weather icons
+- Dynamic background based on weather conditions
+- Responsive UI
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- OpenWeather API
+
+## ⚙️ How to Run
+1. Clone the repository
+2. Open index.html in browser
+
+## 🌐 Live Demo
+(Will add later)
+
+---
